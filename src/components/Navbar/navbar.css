@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    height: 100px;
+  }
+  
+  .logo {
+    margin-right: 64px;
+  }
+
+  .search-bar {
+    width: 65%;
+  }
